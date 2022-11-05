@@ -289,6 +289,7 @@ void LCD_init()
 ![1](https://user-images.githubusercontent.com/93427224/199388425-d266f496-0df7-45a3-a7f4-790391fda89f.png)
 ## Circuit Diagram :
 
+![5 1](https://user-images.githubusercontent.com/93427224/200112472-f45f6b5b-47e2-410e-ac09-cfb761b8c02b.png)
 
 
 ## Result :
